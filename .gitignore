@@ -1,0 +1,12 @@
+*.class
+bin/
+.buildpath
+.project
+.settings/
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
+*.classpath
+*.bak
+*.swp
